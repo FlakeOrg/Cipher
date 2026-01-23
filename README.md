@@ -7,7 +7,7 @@ Cipher is a game made for a modded 3ds. It follows the story of Mello, who fell 
 * Both screens are used.
 ## Development
 Development is currently in process. Contributing is absolutely okay, and I will probably accept it. Please read the contribution guidelines before doing so.
-### Current available positions for delevopment:
+### Current available positions for development:
 * Music designer
 * Programmer
 * Modeler
@@ -49,6 +49,7 @@ You may, please read acceptable and unacceptable use of making content.
 * Creating Merch
 * Content intended to dox others.
 <br>
-**Please note that I can still take your content down by discretion. Use common sense when making content. Contact me for questions.**
+Please note that I can still take your content down by discretion. Use common sense when making content. Contact me for questions.
+
 ## Will this be released on other platforms?
 Yes, but please note that the ports may be paid.
