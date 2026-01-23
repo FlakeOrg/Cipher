@@ -3,7 +3,8 @@ A book i made during school.
 
 
 **Notice: This book is for developers to read and develop off of. If you don't want spoilers, stay out of this .md!**
-
+<br>
+**This is all copy and pasted from my word document. There may be formatting issues.**
 ## Chapter 1: Cruise
 
 2024 July 24th
