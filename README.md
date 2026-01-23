@@ -1,5 +1,5 @@
 # Cipher
-Cipher is a game made for a modded 3ds. It follows the story of Mello, who fell off a cruise and turned into an eel.
+Cipher is a game made for a modded 3ds. It follows the story of Mello, who fell off a cruise and turned into an eel (crazy, I know bro, but stick with me).
 ## Features
 * Cipher has multiple perspectives for each chapter. At the start of each chapter, the player will choose what available character to play as.
 * When you complete the game, you will be able to find CDs explaining the story.
