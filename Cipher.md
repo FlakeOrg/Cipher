@@ -2,7 +2,7 @@
 A book i made during school.
 
 
- 
+**Notice: This book is for developers to read and develop off of. If you don't want spoilers, stay out of this .md!**
 
 ## Chapter 1: Cruise
 
@@ -962,14 +962,14 @@ Joe died.
 Police were arriving. Shady Joe tried to shoot Mello, but he didn’t have any ammo left. He got in his van and drove away.
 Litz fainted.
 Mello cried. He hides the 2 behind a tree. He can hear them breathing. That’s good. He reaches to his pocket shakily and texts Clove. His hands shake while typing.
-Joe did.
+*Joe did.*
 It took a while for Clove to respond.
-Joe did what?
-Joe died. He dird.
+*Joe did what?*
+*Joe died. He dird.*
 Clove goes offline for some time.
 The sirens eventually go away. The police are still there, marking the scene.
 Clove texted again.
-Where.
+*Where.
 Trget parking lot
 Are they still there
 The amblacne is gone bt the police ar stil ther.
@@ -982,7 +982,7 @@ I’m not joking. His name is Shady Joe. He killed Joe, his twin.
 Shady Joe shot Reqn?
 No, he fighted Reqn, and Litz fainted due to shck.
 Stay there. I bring med suplies.
-k.
+k.*
 Mello leaned towards the tree. He peeked behind the tree. Joe was gone, and the cops are putting caution tape around the scene. Other police were talking to witnesses.
 Meanwhile, Clove prepared one of his drones. He’s been making this drone for some time, he can finally use it. He put the drone over his head, got outside, grabbed the handle, and started flying.
 Clove arrived with the medkit.
@@ -1183,16 +1183,16 @@ At some point Litz got out of camera view. There were no cameras in where she is
 “No, he’s a friend. I see him stare at Litz and daydream or something every once in a while.”
 “Did he confess?”
 “No, and when he does, he will probably do it very impulsively. That’s not the point though.”  Clove’s phone gets a notification. He opens it. It’s a scam text.
-Julia is 5 kilometers away from you! And she feels lonely…
+*Julia is 5 kilometers away from you! And she feels lonely…*
 Clove types back.
-Shut it. I’m interested in someone else.
+*Shut it. I’m interested in someone else.*
 He puts the phone aside. Then it dings again. It’s from the scam texter again.
-She’s in the containment room.
+*She’s in the containment room.
 Clove thinks it’s a coincidence and tries not to show fear.
 Good. I don’t care about Julia.
 Julia is not in the containment room.
 Who is in the containment room?
-Litz.
+Litz.*
 Meanwhile, Mello and Reqn was still in McDonalds. There wasn’t much people now. Mello’s alarm went off and he immediately took off his headset and apron. “We can go now.”
 Reqn took off her apron and headset. “I think 64 dollars is nice for a job like this.”
 “That’s nice. We just have to come back tomorrow and get our paycheck.” Mello walked out of the restaurant.
