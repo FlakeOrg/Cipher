@@ -48,6 +48,7 @@ You may, please read acceptable and unacceptable use of making content.
 * Content that alters the story to the extent where the story is meant to harm others
 * Creating Merch
 * Content intended to dox others.
+<br>
 **Please note that I can still take your content down by discretion. Use common sense when making content. Contact me for questions.**
 ## Will this be released on other platforms?
 Yes, but please note that the ports may be paid.
