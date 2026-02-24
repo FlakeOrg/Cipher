@@ -14,8 +14,8 @@ Development is currently in process. Contributing is absolutely okay, and I will
 * Rigger
 * Playtesters
 * Sound designer
-## .cia download
-.cia downloads will be available once chapters are released.
+## .wuhb download
+.wuhb downloads will be available once chapters are released.
 # FAQ
 ## When will the first chapter be made?
 I expect it to be about June, 2026.
